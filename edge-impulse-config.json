@@ -1,0 +1,10 @@
+{
+    "host": "edgeimpulse.com",
+    "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjMxNzEzLCJpYXQiOjE2MzYyNjAwMjAsImV4cCI6MTYzODg1MjAyMH0.TJbjZwT78Cm8ojT1h9_x0OjzRyl9wNTjVYW8NfR1JtU",
+    "lastVersionCheck": 1636260003185,
+    "dataForwarderDevices": {},
+    "daemonDevices": {},
+    "linuxProjectId": 53147,
+    "audio": "hw:1,0",
+    "camera": "mmal service 16.1"
+}
